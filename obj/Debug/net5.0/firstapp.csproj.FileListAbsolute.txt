@@ -1,0 +1,16 @@
+D:\dotnet-core-course\firstapp\bin\Debug\net5.0\firstapp.exe
+D:\dotnet-core-course\firstapp\bin\Debug\net5.0\firstapp.deps.json
+D:\dotnet-core-course\firstapp\bin\Debug\net5.0\firstapp.runtimeconfig.json
+D:\dotnet-core-course\firstapp\bin\Debug\net5.0\firstapp.runtimeconfig.dev.json
+D:\dotnet-core-course\firstapp\bin\Debug\net5.0\firstapp.dll
+D:\dotnet-core-course\firstapp\bin\Debug\net5.0\ref\firstapp.dll
+D:\dotnet-core-course\firstapp\bin\Debug\net5.0\firstapp.pdb
+D:\dotnet-core-course\firstapp\obj\Debug\net5.0\firstapp.csproj.AssemblyReference.cache
+D:\dotnet-core-course\firstapp\obj\Debug\net5.0\firstapp.GeneratedMSBuildEditorConfig.editorconfig
+D:\dotnet-core-course\firstapp\obj\Debug\net5.0\firstapp.AssemblyInfoInputs.cache
+D:\dotnet-core-course\firstapp\obj\Debug\net5.0\firstapp.AssemblyInfo.cs
+D:\dotnet-core-course\firstapp\obj\Debug\net5.0\firstapp.csproj.CoreCompileInputs.cache
+D:\dotnet-core-course\firstapp\obj\Debug\net5.0\firstapp.dll
+D:\dotnet-core-course\firstapp\obj\Debug\net5.0\ref\firstapp.dll
+D:\dotnet-core-course\firstapp\obj\Debug\net5.0\firstapp.pdb
+D:\dotnet-core-course\firstapp\obj\Debug\net5.0\firstapp.genruntimeconfig.cache
